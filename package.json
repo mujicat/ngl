@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "colors": "^1.4.0",
+    "node-fetch": "^2.6.9",
+    "prompt-sync": "^4.2.0"
+  }
+}
