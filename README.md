@@ -4,12 +4,9 @@
   </a>
   </kbd>
   
-  <h2 align="center">Name Said it all</h2>
+  <h2 align="center">Name Said it all🤷</h2>
 
-  <p align="center">
-    ngl spammer 🤷🏻‍♂️</b>)
-    <br />
-  </p>
+  
 </div>
 
 ---------------------------------------
@@ -19,11 +16,13 @@
 
 ---------------------------------------
 
-### SHOWCASE
+### 🎥 SHOWCASE
 
+
+
+
+https://user-images.githubusercontent.com/99200719/233042824-b11ae930-5c9e-46d1-a844-22456467695a.mp4
 
 
 ---------------------------------------
 
-
-### 👩🏻‍💻
