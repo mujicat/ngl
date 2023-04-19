@@ -21,7 +21,6 @@
 
 ### SHOWCASE
 
-https://files.catbox.moe/zf47n6.mp4
 
 
 ---------------------------------------
