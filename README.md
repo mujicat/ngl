@@ -15,6 +15,7 @@
 
 ### 😋 Preview
 
-![633dOCUNQ](https://github.com/l0stdiary/ngl/assets/99200719/a7af88d2-ff95-4c75-b469-61ded7e4cce1)
+![64qYhqFcc](https://github.com/l0stdiary/ngl/assets/99200719/a8574eae-85eb-4d32-98b8-b58b8ab26687)
+
 
 ---------------------------------------
