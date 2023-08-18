@@ -20,6 +20,6 @@
 
 ---------------------------------------
 
-## ❤ Star History
+### ⭐ Star History
 
 [![Star History Chart](https://api.star-history.com/svg?repos=l0stdiary/ngl&type=Date)](https://star-history.com/#l0stdiary/ngl&Date)
