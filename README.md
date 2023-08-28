@@ -19,7 +19,3 @@
 
 
 ---------------------------------------
-
-### ⭐ Star History
-
-[![Star History Chart](https://api.star-history.com/svg?repos=mujicat/ngl&type=Date)](https://star-history.com/#mujicat/ngl&Date)
