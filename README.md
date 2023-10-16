@@ -1,21 +1,12 @@
-<div align="center">
-  <a href="https://github.com/l0stdiary/ngl">
-  </a>
-  <h2 align="center">Name Said it all🤷</h2>
 
-  
-</div>
-
----------------------------------------
+<a href="https://github.com/mujicat/"><img src="https://raw.githubusercontent.com/mujicat/mujicat/main/img/yummy.gif"></a>
 
 ### ⚙️ How to use 101
 * Start: `npm install&node ngl.js`
 
----------------------------------------
-
+<a href="https://github.com/mujicat/"><img src="https://raw.githubusercontent.com/mujicat/mujicat/main/img/yummy.gif"></a>
 ### 😋 Preview
-
-![64qYhqFcc](https://github.com/l0stdiary/ngl/assets/99200719/a8574eae-85eb-4d32-98b8-b58b8ab26687)
-
-
----------------------------------------
+<p align="center">
+  <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/99200719/275473711-f1e80aa4-3ef7-471c-aaa3-4ea3f49c7802.png" />
+</p>
+<a href="https://github.com/mujicat/"><img src="https://raw.githubusercontent.com/mujicat/mujicat/main/img/yummy.gif"></a>
